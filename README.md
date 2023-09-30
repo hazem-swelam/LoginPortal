@@ -6,6 +6,20 @@ The "Simple Login Page" project is a web application that provides a basic user 
 
 Features:
 User-friendly Interface: The login page offers a clean and intuitive design, making it easy for users to understand and interact with.
+## Responsive Design
+
+The "Simple Login Page" project is built with responsive design principles in mind. It is optimized to work seamlessly on various screen sizes and states, including:
+
+- **Mobile Devices:** The login page is fully responsive and adapts to the smaller screens of mobile devices, ensuring a user-friendly experience for users accessing the site from smartphones or tablets.
+
+- **Tablets:** The layout is designed to provide an optimal viewing and interaction experience on tablet devices, both in portrait and landscape orientations.
+
+- **Desktop:** Users accessing the login page from desktop computers or laptops will also find it well-optimized for larger screens.
+
+- **Different States:** This project takes into account different states and viewports, ensuring that the login page maintains its functionality and aesthetics regardless of the screen size or orientation.
+
+Whether your users are on the go with their mobile phones or using larger desktop monitors, this login page is designed to deliver a consistent and user-friendly experience across all devices and states.
+
 
 Email and Password Input: Users can enter their email and password into the respective input fields.
 
